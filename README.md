@@ -1,7 +1,8 @@
 ## Graded-Project-on-Fraud-Detection-and-Risk-Analysis
 
 ### Objective
-####To analyze structured and unstructured data independently to identify loan fraud, assess customer risk, and understand customer behavior. This case study focuses on the loan and transaction data of Cross River Bank, leveraging MySQL and MongoDB for a comprehensive analysis.
+#### This project aims to analyze structured and unstructured data to identify loan fraud, assess customer risk, and understand customer behavior for Cross River Bank. Leveraging MySQL for structured data (e.g., customer, loan, and transaction data) and MongoDB for unstructured data (e.g., customer feedback, behavior logs), the solution automates fraud detection and risk assessment processes.
 
-### Problem Statement
-####Cross River Bank, a U.S.-based financial institution, faces challenges in detecting fraudulent activities and assessing customer risk effectively. With an increasing volume of loans and transactions, traditional manual methods are insufficient. The bank requires an automated system to analyze both structured data (e.g., customer, loan, and transaction data) and unstructured data (e.g., customer feedback, behavior logs) to identify patterns of fraud, optimize lending policies, and improve customer satisfaction.
+#### The system identifies fraudulent patterns, optimizes lending policies, and enhances customer satisfaction by analyzing high-volume data effectively. This project demonstrates the integration of database technologies to solve real-world challenges in the financial domain. 
+
+#### This repository contains the datasets, the problem statement, the solution of the problem tasks along with the comprehensive summary report of the analysis.
